@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @G-Andrew-N
 - 👀 I’m interested in Data Science and Machine learning
-- 🌱 I’m currently learning university
 - 💞️ I’m looking to collaborate on building machine learning, exploratory data analysis, feature engeneering
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
